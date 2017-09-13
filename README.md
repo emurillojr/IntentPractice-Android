@@ -1,5 +1,5 @@
 # IntentPractice-Android
-Intent Practice <br>
+Intent Practice inclass2.2<br>
 •	Create Two Activities, Main and Result <br>
 •	Main will have the following controls: <br>
 •	Edit Text (to pass information to Result) <br>
